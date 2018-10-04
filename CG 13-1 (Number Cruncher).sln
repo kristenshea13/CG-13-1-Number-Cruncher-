@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG 13-1 (Number Cruncher)", "CG 13-1 (Number Cruncher)\CG 13-1 (Number Cruncher).csproj", "{C68B961C-363E-427B-81A5-37477C0E7127}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberUtility", "ClassLibrary1\NumberUtility.csproj", "{C9F1FB16-4B57-42F2-B620-60EF0911D8E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C68B961C-363E-427B-81A5-37477C0E7127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C68B961C-363E-427B-81A5-37477C0E7127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C68B961C-363E-427B-81A5-37477C0E7127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F1FB16-4B57-42F2-B620-60EF0911D8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F1FB16-4B57-42F2-B620-60EF0911D8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F1FB16-4B57-42F2-B620-60EF0911D8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F1FB16-4B57-42F2-B620-60EF0911D8E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

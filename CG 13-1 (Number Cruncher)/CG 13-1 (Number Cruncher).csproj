@@ -6,4 +6,8 @@
     <RootNamespace>CG_13_1__Number_Cruncher_</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\NumberUtility.csproj" />
+  </ItemGroup>
+
 </Project>
