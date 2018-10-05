@@ -17,7 +17,7 @@ namespace CG_13_1__Number_Cruncher_
             int sum = NumberCruncher.EvenSum(numbers);
 
             //print to console in a string
-            Console.WriteLine("The sum of the even numbers in a list from 1-10: {0}", sum);
+            Console.WriteLine("The total sum of all the even numbers in a list from 1-10: {0}", sum);
 
 
 
