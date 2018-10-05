@@ -18,10 +18,11 @@ namespace CG_13_1__Number_Cruncher_
             
 
 
-            var Numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            var numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-            
+            int sum = NumberCruncher.EvenSum(numbers);
 
+            Console.WriteLine("The sum of the even numbers in a list from 1-10: {0}", sum);
 
 
 
