@@ -9,10 +9,7 @@ namespace CG_13_1__Number_Cruncher_
     {
         static void Main(string[] args)
         {
-            //I created a set list, but can create list from user-entered integers as well
-
-
-
+            //I created a set list, but can create list from user-entered integers
             var numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
 
@@ -21,16 +18,6 @@ namespace CG_13_1__Number_Cruncher_
 
             //print to console in a string
             Console.WriteLine("The sum of the even numbers in a list from 1-10: {0}", sum);
-
-
-
-
-
-
-            Console.WriteLine();
-            
-
-
 
 
 
